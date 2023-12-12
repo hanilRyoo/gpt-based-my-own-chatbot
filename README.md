@@ -1,10 +1,10 @@
 # gpt-based-my-own-chatbot
 
-1. 과제명
-   국문 : ChatGPT를 활용한 대학생활 도우미 챗봇
-   영문 : ChatGPT-based college life helper chatbot
+1. 과제명 <br>
+   국문 : ChatGPT를 활용한 대학생활 도우미 챗봇 <br>
+   영문 : ChatGPT-based college life helper chatbot <br>
 
-2. 개발 목적 및 필요성
+2. 개발 목적 및 필요성<br>
 -ChatGPT를 이용한 챗봇을 개발하여 학사정보와 같은 대학생활에 관련된 정보를 
    쉽게 찾을 수 있는 기능을 구현한다.
 
