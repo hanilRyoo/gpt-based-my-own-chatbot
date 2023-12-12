@@ -16,6 +16,8 @@ langchain 과 gpt를 이용하여 나만의 챗봇을 만들어보았다. <br>
 개발 결과는 생각보다 답변이 잘나오고 시간이 조금 걸리지만 <br>
 (20초~50초 정도)<br>
 우리가 chatgpt쓸 때 걸리는 시간이랑 비교하면 비슷한것 같다.<br>
+<br>
+공유한 코랩 코드를 사용하면 gpt api를 이용해서 pdf 파일안에 있는 문서 안에서 답변하는 챗봇을 구현할 수 있다.
 
 <p align="left">
   <img src="https://github.com/hanilRyoo/gpt-based-my-own-chatbot/assets/144669881/9186a978-9ae1-4916-a1cf-23afa03d15b6" width="600">
