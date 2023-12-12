@@ -15,5 +15,5 @@ langchain 과 gpt를 이용하여 나만의 챗봇을 만들어보았다. <br>
 시연영상 <br>
 
 <p align="left">
-  <img src="https://github.com/hanilRyoo/gpt-based-my-own-chatbot/assets/144669881/a5c787e5-a042-4478-be08-c4c1006b8b37" width="600">
+  <img src="https://github.com/hanilRyoo/gpt-based-my-own-chatbot/assets/144669881/a5c787e5-a042-4478-be08-c4c1006b8b37" height="600">
 </p>
