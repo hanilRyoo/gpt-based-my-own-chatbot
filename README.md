@@ -1,5 +1,14 @@
 # gpt-based-my-own-chatbot
 
+1. 과제명
+   국문 : ChatGPT를 활용한 대학생활 도우미 챗봇
+   영문 : ChatGPT-based college life helper chatbot
+
+2. 개발 목적 및 필요성
+-ChatGPT를 이용한 챗봇을 개발하여 학사정보와 같은 대학생활에 관련된 정보를 
+   쉽게 찾을 수 있는 기능을 구현한다.
+
+3. 과정
 langchain 과 gpt를 이용하여 나만의 챗봇을 만들어보았다. <br>
 대학홈페이지 자료를 PDF로 다운받아 문서안의 내용을 챗봇으로 질문하고 답변 받을 수 있다. <br>
 (강의계획서, 대학생활자료 등 200개의 PDF파일을 사용함)<br>
