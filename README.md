@@ -9,5 +9,5 @@ langchain 과 gpt를 이용하여 나만의 챗봇을 만들어보았다.
 우리가 chatgpt쓸 때 걸리는 시간이랑 비교하면 비슷한것 같다.
 
 <p align="center">
-  <img src="이미지URL">
+  <img src="[이미지URL](https://github.com/hanilRyoo/gpt-based-my-own-chatbot/issues/1#issue-2037053544)https://github.com/hanilRyoo/gpt-based-my-own-chatbot/issues/1#issue-2037053544">
 </p>
